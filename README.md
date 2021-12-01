@@ -33,7 +33,7 @@
   <br>
 
   ![yheun03's github stats](https://github-readme-stats.vercel.app/api?username=yheun03&show_icons=true)
-  [![yheun03's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yheun03&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yheun03)
+  [![yheun03's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yheun03&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yheun03)
 
   <br>
 
