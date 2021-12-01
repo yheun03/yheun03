@@ -29,7 +29,7 @@
   <a href="mailto:eyh208@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
-<div style="display: flex">
+<div align="center">
   
 ![yheun03's github stats](https://github-readme-stats.vercel.app/api?username=yheun03&show_icons=true)
 [![yheun03's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yheun03&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yheun03)
