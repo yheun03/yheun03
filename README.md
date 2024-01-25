@@ -12,17 +12,12 @@
     <img src="https://img.shields.io/badge/BootStrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Cinema 4D-011A6A?style=flat-square&logo=Cinema4D&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp
     <br>
     <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/AdobePhotoshop-31a8ff?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/AdobeIllustrator-ff9a00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat-square&logo=AdobeXD&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/AdobePremierePro-9999ff?style=flat-square&logo=AdobePremierePro&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat-square&logo=AdobeXD&logoColor=white"/></a>&nbsp
   </p>
   <br>
   <h3 align="center"> 😁 Me 😁 </h3>
